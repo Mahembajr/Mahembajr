@@ -1,10 +1,10 @@
-# Hi, I'm Mahemba Laurent 👋
+# Hi, I'm Laurent Mahemba 👋
 
-**MSc Cybersecurity & Forensics Student** | Ethical Hacking | Network Security | Tanzania 🇹🇿
+**MSc Cybersecurity & Digital Forensics** | Penetration Testing | Network Security | Tanzania 🇹🇿
 
-Postgraduate student specialising in Cybersecurity and Digital Forensics,
-with hands-on experience building secure full-stack systems and practising
-offensive and defensive security techniques.
+Postgraduate student specialising in cybersecurity and digital forensics, with hands-on
+experience building secure systems and exploiting vulnerable ones. Former Google GDSC Lead
+and ERP Functional Specialist. I understand security from both sides — the builder and the attacker.
 
 ---
 
@@ -17,60 +17,70 @@ offensive and defensive security techniques.
 
 ## 📜 Certifications
 
-- 🛡 **Cisco — Introduction to Cybersecurity** · Cisco Networking Academy
-- 🛡 **Cisco — Cybersecurity Essentials** · Cisco Networking Academy
+- 🛡 **Cisco — Introduction to Cybersecurity** · Oct 2024
+- 🛡 **Cisco — Cybersecurity Essentials** · Ongoing
+- 🛡 **Cisco — Network Defence** · Ongoing
+- 🤖 **AI Career Essentials** · ALX Africa / Mastercard Foundation · May 2024
+- 🏆 **Google GDSC Lead** · Certificate of Completion · 2023–2024
 - 🐍 **Python Programming Fundamentals**
-- 📊 **Digital Marketing Certification**
+- 🎯 *Preparing for: CompTIA Security+*
 
-*Currently working toward: CompTIA Security+*
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [CyberScan — Penetration Testing Toolkit](https://github.com/Mahembajr/cyberscan)
+> Multithreaded port scanner, cipher cracker, home lab exploits and CVE writeups
+
+- Built a TCP port scanner from scratch — banner grabbing identified vsFTPd 2.3.4
+- Exploited **CVE-2011-2523** to achieve a full **root shell** on Metasploitable2
+- Implemented Vigenère cipher cracker using Kasiski examination and frequency analysis
+- Home lab: Kali Linux vs Metasploitable2 on isolated VMware network
+
+### 🎓 [SUZA Alumni Management System](https://github.com/Mahembajr/alumni_app)
+> Secure full-stack platform — FastAPI, React, JWT auth, RBAC · BSc Final Year Project
+
+- JWT authentication + role-based access control (Admin / Alumni)
+- Secure API design with FastAPI and SQLAlchemy
+- Alumni directory, job board, events, messaging, admin dashboard
+
+### 🏢 [Virtuous Insurance Brokers Website](https://github.com/Mahembajr/virtuous-insurance-brokers-website)
+> Production website for a TIRA-licensed insurance brokerage in Tanzania · React + Vite
 
 ---
 
 ## 🧪 Practice & Labs
 
-- **TryHackMe:** [tryhackme.com/p/Mahembajr](https://tryhackme.com/p/Mahembajr)
-- **Home Lab:** Hands-on practice with network scanning, traffic analysis,
-  and penetration testing tools (Nmap, Wireshark, Kali Linux)
+- 🔴 **TryHackMe:** [tryhackme.com/p/Mahembajr](https://tryhackme.com/p/Mahembajr) — Jr Penetration Tester Path
+- 🏠 **Home Lab:** Kali Linux + Metasploitable2 on VMware — active exploitation practice
+- 📝 **Writeups:** [cyberscan/writeups](https://github.com/Mahembajr/cyberscan/tree/main/writeups)
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-**Security**
-`Kali Linux` `Nmap` `Wireshark` `Burp Suite` `Linux`
+**Security:** `Kali Linux` `Nmap` `Metasploit` `Wireshark` `Burp Suite` `Netcat`
 
-**Development** *(understanding attack surfaces from the builder's perspective)*
-`Python` `FastAPI` `React` `JWT Auth` `RBAC` `SQLAlchemy` `REST APIs`
+**Development:** `Python` `FastAPI` `React` `JWT` `SQLAlchemy` `Java` `JavaScript`
 
----
+**Systems:** `Linux` `Windows Server` `TCP/IP` `VMware` `Git`
 
-## 🚀 Projects
-
-### 🔐 File Secure System *(ongoing)*
-> Cybersecurity-focused project for secure file storage,
-> controlled access, and data protection
-
-### 🎓 SUZA Alumni Management System
-> Secure full-stack platform demonstrating real-world auth
-> and access control implementation
-
-- JWT authentication + role-based access control
-- Secure API design with FastAPI
-- Understanding these systems deeply = knowing how to break them
-
-[View Repository →](https://github.com/Mahembajr/alumni_app)
+**ERP & Cloud:** `Odoo` `Google Cloud` `AWS`
 
 ---
 
-## 🎯 Goal
+## 🎯 Currently
 
-To work as a **penetration tester or SOC analyst**, helping
-organisations across East Africa defend against real-world threats.
+- 📖 MSc IT — Cybersecurity & Digital Forensics at Parul University, India
+- 🔴 Completing TryHackMe Jr Penetration Tester path
+- 🏗 Building Phase 2 of CyberScan — web application security tools
+- 📚 Preparing for CompTIA Security+
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-- 🌐 **Portfolio:** [mahembajr.github.io](https://mahembajr.github.io)
-- 📧 **Email:** laurodesphinx@gmail.com
-- 🔵 **TryHackMe:** [tryhackme.com/p/Mahembajr](https://tryhackme.com/p/Mahembajr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahembajr.github.io-00ff88?style=flat)](https://mahembajr.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-laurent--mahemba-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/laurent-mahemba/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Mahembajr-red?style=flat)](https://tryhackme.com/p/Mahembajr)
+[![Email](https://img.shields.io/badge/Email-laurodesphinx@gmail.com-grey?style=flat)](mailto:laurodesphinx@gmail.com)
