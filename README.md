@@ -1,4 +1,4 @@
-# Hi, I'm Laurent Mahemba 👋
+[# Hi, I'm Laurent Mahemba 👋
 
 **MSc Cybersecurity & Digital Forensics** | Penetration Testing | Network Security | Tanzania 🇹🇿
 
@@ -84,3 +84,4 @@ and ERP Functional Specialist. I understand security from both sides — the bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-laurent--mahemba-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/laurent-mahemba/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Mahembajr-red?style=flat)](https://tryhackme.com/p/Mahembajr)
 [![Email](https://img.shields.io/badge/Email-laurodesphinx@gmail.com-grey?style=flat)](mailto:laurodesphinx@gmail.com)
+](https://github.com/Mahembajr)
